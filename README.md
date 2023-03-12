@@ -11,7 +11,8 @@
 |2023.03.03|[RGB거리](https://www.acmicpc.net/problem/1149)<br>[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)<br>[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|실버1 <br>lv2<br>lv2|DP <br> 구현 <br> 구현|
 |2023.03.06|[절댓값 힙](https://www.acmicpc.net/problem/11286)<br>[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)<br>[오픈 채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|실버1 <br>lv2<br>lv2|힙 <br> 그리디 <br> 구현|
 |2023.03.07|[스티커](https://www.acmicpc.net/problem/9465)<br>[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|실버1 <br>lv2<br>lv2|DP <br> 완전 탐색 <br> 그리디|
-|2023.03.07|[리모컨](https://www.acmicpc.net/problem/1107)<br>[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)<br>[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|골드5 <br>lv2<br>lv2|완전 탐색 <br> 구현 <br> 구현|
+|2023.03.09|[리모컨](https://www.acmicpc.net/problem/1107)<br>[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)<br>[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|골드5 <br>lv2<br>lv2|완전 탐색 <br> 구현 <br> 구현|
+|2023.03.10|[테트로미노](https://www.acmicpc.net/problem/14500)<br>[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)<br>[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|골드4 <br>lv3<br>lv2|완전 탐색 <br> 구현 <br> 그리디|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
