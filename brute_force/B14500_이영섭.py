@@ -48,8 +48,8 @@ for i in range(N-3):
             max_val = val
             
 # hexa_hor
-for i in range(N-2):
-    for j in range(M-3):
+for i in range(N-1):
+    for j in range(M-2):
         for k in bf_hor:
             val = 0
             for l in k:
@@ -58,8 +58,8 @@ for i in range(N-2):
                 max_val = val
             
 # hexa_ver
-for i in range(N-3):
-    for j in range(M-2):
+for i in range(N-2):
+    for j in range(M-1):
         for k in bf_ver:
             val = 0
             for l in k:
