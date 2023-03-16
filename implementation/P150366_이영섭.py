@@ -61,3 +61,11 @@ def solution(commands):
             answer.append(value[x][y])
         print(pyo[4][4], value[4][4])
     return answer
+
+# 문제 접근 방법
+# # 모든 값을 확인하면서 풀려고 했고 가능했는데
+# # 멋이 없어서 union-find라는 알고리즘을 배워서 풀어봄
+# 새로 배운 python
+# # python은 아니지만 union-find 알고리즘
+# # 재귀적으로 부모를 찾는 함수와 부모끼리 합치는 함수로 이루어진 알고리즘
+# # set을 활용해서 해당 좌표를 넣어볼까 했는데 union-find가 더 쉽게 구현할 수 있었다.
