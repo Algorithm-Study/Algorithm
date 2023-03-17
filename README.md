@@ -13,6 +13,7 @@
 |2023.03.07|[스티커](https://www.acmicpc.net/problem/9465)<br>[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|실버1 <br>lv2<br>lv2|DP <br> 완전 탐색 <br> 그리디|
 |2023.03.09|[리모컨](https://www.acmicpc.net/problem/1107)<br>[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)<br>[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|골드5 <br>lv2<br>lv2|완전 탐색 <br> 구현 <br> 구현|
 |2023.03.10|[테트로미노](https://www.acmicpc.net/problem/14500)<br>[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)<br>[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|골드4 <br>lv3<br>lv2|완전 탐색 <br> 구현 <br> 그리디|
+|2023.03.13|[토마토](https://www.acmicpc.net/problem/7569)<br>[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)<br>[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|골드5 <br>lv2<br>lv2|그래프 <br> 조합 <br> 스택|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
@@ -24,3 +25,6 @@
 |2023.02.27|Deview Day1|
 |2023.02.28|Deview Day2|
 |2023.03.08|Google Cloud OnBoard|
+|2023.03.14|공채 서류 제출|
+|2023.03.15|공채 서류 제출|
+|2023.03.16|팀원 개인 사정|
