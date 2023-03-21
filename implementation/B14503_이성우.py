@@ -1,5 +1,9 @@
 N, M = map(int, input().split())
 x, y, idx = map(int, input().split())
+if idx == 1:
+    idx = 3
+elif idx == 3:
+    idx = 1
 directions = [[-1,0],[0,-1],[1,0],[0,1]]
 direction = directions[idx]
 operation = True
@@ -25,12 +29,11 @@ def check_around(maps, x, y, direction, operation):
         
     # 주변 4칸이 청소가 모두 되었다면 보는 방향에서 뒤로 가고 못가면 작동 정지
     else:
-        if x-direction[0] >= 0 and x-direction[0] < N and y-direction[1] >= 0 and y-direction[1] < M:
-            if maps[x-direction[0]][y-direction[1]] != 1:
+        if x-direction[0] >= 0 and x-direction[0] < N and y-direction[1] >= 0 and y-direction[1] < M and maps[x-direction[0]][y-direction[1]] != 1:
                 return maps, x-direction[0], y-direction[1], direction, operation
-            else:
-                operation = False
-                return maps, x, y, direction, operation
+        else:
+            operation = False
+            return maps, x, y, direction, operation
             
     # 주변 4칸 중 청소 안된 곳이 있다면 반시계로 돌면서 탐지하고 청소 안된 곳으로 직진
     for _ in range(4):
@@ -53,6 +56,7 @@ def robot(maps, x, y, direction, operation, cnt):
 # 작동이 멈출 때까지 탐색
 while operation:
     # print(maps, x, y, direction, operation, cnt)
+    print(maps)
     maps, x, y, direction, operation, cnt = robot(maps, x, y, direction, operation, cnt)
 
 # 청소한 영역 print
