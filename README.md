@@ -19,7 +19,7 @@
 |2023.03.21|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)<br>[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)<br>[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)|골드5 <br>lv2<br>lv3|시물레이션 <br> 완전탐색 <br> DP|
 |2023.03.23|[스타트 택시](https://www.acmicpc.net/problem/19238)<br>[행렬 테두리](hhttps://school.programmers.co.kr/learn/courses/30/lessons/77485)<br>[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|골드5 <br>lv2<br>lv3|시뮬레이션 <br> 구현 <br> 그리디|
 |2023.03.24|[연구소3](https://www.acmicpc.net/problem/17142)<br>[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)<br>[삼각달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|골드3 <br>lv2<br>lv2|그래프 <br> 구현 <br> 구현|
-|2023.03.28|[미세먼지 안녕!](https://www.acmicpc.net/problem/17142)<br>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br>[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927#)|골드4 <br>lv2<br>lv2|시뮬레이션 <br> 완전 탐색 <br> 그리디|
+|2023.03.28|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)<br>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br>[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927#)|골드4 <br>lv2<br>lv2|시뮬레이션 <br> 완전 탐색 <br> 그리디|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
