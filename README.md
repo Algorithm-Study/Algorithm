@@ -22,6 +22,7 @@
 |2023.03.28|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)<br>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br>[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927#)|골드4 <br>lv2<br>lv2|시뮬레이션 <br> 완전 탐색 <br> 그리디|
 |2023.03.29|[2048(EASY)](https://www.acmicpc.net/problem/12100)<br>[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)<br>[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) <br> [배열 돌리기 1](https://www.acmicpc.net/problem/16926)|골드2 <br>lv2<br>lv1 <br> 실버1|시뮬레이션 <br> 완전 탐색 <br> 구현 <br> 구현|
 |2023.03.30|[모노미노도미노 2](https://www.acmicpc.net/problem/20061)<br>[집합](https://www.acmicpc.net/problem/23971)<br>[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br> [뱀](hhttps://www.acmicpc.net/problem/3190)|골드2 <br>실버5<br>lv1 <br> 골드4|시뮬레이션 <br> 구현 <br> 구현 <br> 시뮬레이션|
+|2023.03.31|[낚시왕](https://www.acmicpc.net/problem/17143)<br>[A와B 2](https://www.acmicpc.net/problem/12919)<br>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) <br> [연구소](https://www.acmicpc.net/problem/14502)|골드1 <br>골드5<br>lv1 <br> 골드4|시뮬레이션 <br> 완전탐색 <br> 구현 <br> 그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
