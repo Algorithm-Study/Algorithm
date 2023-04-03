@@ -1,82 +1,56 @@
-R, C, M = map(int, input().split())
-maps = [[0]*C for _ in range(R)]
-sharks = []
-
-for _ in range(M):
-    tmp = list(map(int,input().split()))
-    sharks.append(tmp)
-    maps[tmp[0]-1][tmp[1]-1] = _+1
-    
-print('_'*C)
-for _ in maps:
-    print(*_)
-
-print(sharks)
+r, c, m = map(int, input().split())
 
 dx = [-1, 1, 0, 0]
 dy = [0, 0, 1, -1]
-answer = 0
-for j in range(C):
-    
 
-    temp = []
-    for i, shark in enumerate(sharks):
-        x, y, s, d, h = shark
-        if d == 3:
-            if y + s - 1 >= C:
-                nx = x
-                ny = 2*(C - 1) - (y + s - 1)
-                d = 4
-            else:
-                nx = x - 1
-                ny = y + s - 1
-                d = 4
-                
-        elif d == 4:
-            if y - s - 1 < 0:
-                nx = x - 1
-                ny = -(y - s - 1)
-                d = 3
-            else:
-                nx = x - 1
-                ny = y - s - 1
-                d = 3
-        
-        elif d == 2:
-            if x + s -1 >= R:
-                nx = 2*(R - 1) - (x + s - 1)
-                ny = y -1
-                d = 1
-            else:
-                nx = (x + s - 1)
-                ny = y -1
-                d = 1
-        
-        elif d == 1:
-            if x - s -1 < 0:
-                nx = -(x - s - 1)
-                ny = y -1
-                d = 2
-            else:
-                nx = (x + s - 1)
-                ny = y -1
-                d = 1
-        print(nx, ny)        
-        if maps[nx][ny] == 0:
-            maps[nx][ny] == i + 1
-        else:
-            if sharks[i][4] > sharks[maps[nx][ny]+1][4]:
-                maps[nx][ny] = i + 1
-            else:
-                del sharks[i]
+graph = [[[] for _ in range(c)] for _ in range(r)]
 
+for _ in range(m):
+    x, y, s, d, z = map(int, input().split())
+    graph[x-1][y-1].append([z, s, d-1])
 
-    
-    for i in range(R):
-        if maps[i][j] != 0:
-            answer += maps[i][j]
-            del shark[maps[i][j]]
-            maps[i][j] = 0
-    print('-'*2*C)
-    for _ in maps:
-        print(*_)
+def moving():
+    g = [[[] for _ in range(c)] for _ in range(r)]
+    for i in range(r):
+        for j in range(c):
+            if graph[i][j]:
+                x, y = i, j
+                z, s, d = graph[i][j][0]
+                s_count = s
+                while s_count > 0:
+                    nx = x + dx[d]
+                    ny = y + dy[d]
+                    if 0 > nx or nx >= r or ny < 0 or ny >= c:
+                        if d in [0, 2]:
+                            d += 1
+                        elif d in [1, 3]:
+                            d -= 1
+                        continue
+                    else:
+                        x, y = nx, ny
+                        s_count -= 1
+                g[x][y].append([z, s, d])
+    for i in range(r):
+        for j in range(c):
+            graph[i][j] = g[i][j]
+
+eat_count = 0
+
+for i in range(c):
+    for j in range(r):
+        if graph[j][i]:
+            value = graph[j][i][0]
+            eat_count += value[0]
+            graph[j][i].remove(value)
+            break
+
+    moving()
+
+    for p in range(r):
+        for q in range(c):
+            if len(graph[p][q]) >= 2:
+                graph[p][q].sort(reverse=True)
+                while len(graph[p][q]) >= 2:
+                    graph[p][q].pop()
+
+print(eat_count)
