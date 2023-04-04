@@ -34,11 +34,11 @@ for i in range(M):
         temp_list[x][y] = 1
     water_copy_bug()
     cloud = deque()
-    for i in range(N):
-        for j in range(N):
-            if arr[i][j] >= 2 and temp_list[i][j] == 0:
-                cloud.append((i, j))
-                arr[i][j] -= 2
+    for m in range(N):
+        for n in range(N):
+            if arr[m][n] >= 2 and temp_list[m][n] == 0:
+                cloud.append((m, n))
+                arr[m][n] -= 2
 
 answer = 0
 for i in arr:
