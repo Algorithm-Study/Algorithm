@@ -25,6 +25,7 @@
 |2023.03.31|[낚시왕](https://www.acmicpc.net/problem/17143)<br>[A와B 2](https://www.acmicpc.net/problem/12919)<br>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) <br> [연구소](https://www.acmicpc.net/problem/14502)|골드1 <br>골드5<br>lv1 <br> 골드4|시뮬레이션 <br> 완전탐색 <br> 구현 <br> 그래프|
 |2023.04.03|[주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)<br>[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) <br> [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|골드4 <br>골드3 <br>lv2 <br> 골드3|시뮬레이션 <br> 시뮬레이션 <br> 그리디 <br> 시뮬레이션|
 |2023.04.04|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)<br>[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) <br> [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|골드3 <br>lv2 <br> 골드3|완전 탐색 <br> 구현 <br> 그래프|
+|2023.04.05|[최단 경로](https://www.acmicpc.net/problem/1753)<br>[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) <br> [숨바꼭질3](https://www.acmicpc.net/problem/13549)|골드4 <br>lv2 <br> 골드5|그레프 <br> 스택 <br> 그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
