@@ -9,7 +9,7 @@ field[N] = 0
 while queue:
     x = queue.popleft()
     if 2*x < max_val and field[2*x] == -1:
-        field[2*x] = field[x] + 1
+        field[2*x] = field[x]
         queue.append(2*x)
     if x-1 >= 0 and field[x-1] == -1:
         field[x-1] = field[x]+1
