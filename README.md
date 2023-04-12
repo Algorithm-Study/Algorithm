@@ -27,7 +27,8 @@
 |2023.04.04|[백준 - 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)<br>[프로그래머스 - 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) <br> [백준 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|골드3 <br>lv2 <br> 골드3|완전 탐색 <br> 구현 <br> 그래프|
 |2023.04.05|[백준 - 최단 경로](https://www.acmicpc.net/problem/1753)<br>[프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) <br> [백준 - 숨바꼭질3](https://www.acmicpc.net/problem/13549)|골드4 <br>lv2 <br> 골드5|그레프 <br> 스택 <br> 그래프|
 |2023.04.06|[백준 - 내려가기](https://www.acmicpc.net/problem/2096)<br>[프로그래머스 - 택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) <br> [백준 - 최소비용 구하기2](https://www.acmicpc.net/problem/11779)|골드5 <br>lv2 <br> 골드3|DP <br> 스택 <br> 그래프|
-|2023.04.07|[백준 - 파티](https://www.acmicpc.net/problem/9328)<br>[프로그래머스 - 스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <br> [백준 - 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|골드3 <br>lv2 <br> 골드3|그래프 <br> 구현 <br> DP|
+|2023.04.07|[백준 - 파티](https://www.acmicpc.net/problem/1238)<br>[프로그래머스 - 스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <br> [백준 - 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|골드3 <br>lv2 <br> 골드3|그래프 <br> 구현 <br> DP|
+|2023.04.07|[백준 - Dance Dance Revolution](https://www.acmicpc.net/problem/1238)<br>[프로그래머스 - 인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <br> [프로그래머스 - 후보키](https://www.acmicpc.net/problem/11049) <br> [프로그래머스 - 당구 연습](https://www.acmicpc.net/problem/11049)|골드3 <br>lv3 <br> lv2 <br> lv2|DP <br> 구현 <br> 구현 <br> 구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
@@ -44,3 +45,4 @@
 |2023.03.16|팀원 개인 사정|
 |2023.03.22|팀원 개인 사정|
 |2023.03.27|팀원 개인 사정|
+|2023.04.10|공채 서류 제출|
