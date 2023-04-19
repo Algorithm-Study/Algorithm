@@ -33,6 +33,8 @@
 |2023.04.13|[백준 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)<br>[프로그래머스 - 유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652) <br> [프로그래머스 - 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) <br> [프로그래머스 - 우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|골드5 <br>lv2 <br> lv2 <br> lv2|그래프 <br> 구현 <br> 구현 <br> 구현|
 |2023.04.14|[백준 - 세 용액](https://www.acmicpc.net/problem/2473)<br>[프로그래머스 - 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) <br> [프로그래머스 - 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) |골드3 <br>lv2 <br> lv2|이분 탐색 <br> 구현 <br> 구현|
 |2023.04.17|[백준 - 오큰수](https://www.acmicpc.net/problem/17298)<br>[백준 - 계단 오르기](https://www.acmicpc.net/problem/2579) <br> [프로그래머스 - 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) |골드4 <br>실버3 <br> level2|스택 <br> DP <br> 구현|
+|2023.04.18|[백준 - DSLR](https://www.acmicpc.net/problem/9019)<br>[백준 - 주유소](https://www.acmicpc.net/problem/13305) <br> [프로그래머스 - 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |골드4 <br> 실버3 <br> level2|그래프 <br> 그리디 <br> 구현|
+
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
