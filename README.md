@@ -37,6 +37,7 @@
 |2023.04.19|[백준 - 앱](https://www.acmicpc.net/problem/7579)<br>[백준 - 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) <br> [프로그래머스 - 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) |골드3 <br> 실버3 <br> level2|DP <br> 구현 <br> 구현|
 |2023.04.20|[백준 - 알파벳](https://www.acmicpc.net/problem/1987)<br>[백준 - 예산](https://www.acmicpc.net/problem/2512) <br> [프로그래머스 - 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |골드4 <br> 실버3 <br> level2|그래프 <br> 이분탐색 <br> 큐|
 |2023.04.21|[백준 - RGB 거리2](https://www.acmicpc.net/problem/17404)<br>[백준 - 블로그](https://www.acmicpc.net/problem/21921) <br> [프로그래머스 - 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) |골드4 <br> 실버3 <br> level2|DP <br> 누적합 <br> 구현|
+|2023.04.24|[백준 - 두 배열의 합](https://www.acmicpc.net/problem/2143)<br>[백준 - 수 이어쓰기](https://www.acmicpc.net/problem/1515) <br> [프로그래머스 - 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |골드3 <br> 실버3 <br> level2|누적합 <br> 그리디 <br> 구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
