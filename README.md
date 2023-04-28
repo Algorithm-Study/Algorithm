@@ -40,6 +40,7 @@
 |2023.04.24|[백준 - 두 배열의 합](https://www.acmicpc.net/problem/2143)<br>[백준 - 수 이어쓰기](https://www.acmicpc.net/problem/1515) <br> [프로그래머스 - 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |골드3 <br> 실버3 <br> level2|누적합 <br> 그리디 <br> 구현|
 |2023.04.25|[백준 - 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)<br>[백준 - 햄버거 분배](https://www.acmicpc.net/problem/19941) <br> [프로그래머스 - 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |골드3 <br> 실버3 <br> level2|그래프 <br> 그리디 <br> 구현|
 |2023.04.26|[백준 - 단어 수학](https://www.acmicpc.net/problem/1339)<br>[백준 - 진우의 달 여행(Small)](https://www.acmicpc.net/problem/17484) <br> [프로그래머스 - 전력망 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |골드4 <br> 실버3 <br> level2|그리디 <br> 완전탐색 <br> 완전탐색|
+|2023.04.28|[백준 - 공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br>[백준 - 비슷한 단어](https://www.acmicpc.net/problem/2607) <br> [프로그래머스 - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |골드5 <br> 실버3 <br> level2|DP <br> 구현 <br> 완전탐색|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
