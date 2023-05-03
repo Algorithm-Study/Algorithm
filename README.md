@@ -42,6 +42,7 @@
 |2023.04.26|[백준 - 단어 수학](https://www.acmicpc.net/problem/1339)<br>[백준 - 진우의 달 여행(Small)](https://www.acmicpc.net/problem/17484) <br> [프로그래머스 - 전력망 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |골드4 <br> 실버3 <br> level2|그리디 <br> 완전탐색 <br> 완전탐색|
 |2023.04.28|[백준 - 공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br>[백준 - 비슷한 단어](https://www.acmicpc.net/problem/2607) <br> [프로그래머스 - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |골드5 <br> 실버3 <br> level2|DP <br> 구현 <br> 완전탐색|
 |2023.05.01|[백준 - 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)<br>[백준 - KCPC](https://www.acmicpc.net/problem/3758) <br> [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |골드4 <br> 실버3 <br> level2|DP <br> 구현 <br> 구현|
+|2023.05.02|[백준 - 동전1](https://www.acmicpc.net/problem/2293)<br>[백준 - 타노스](https://www.acmicpc.net/problem/20310) <br> [프로그래머스 - 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |골드5 <br> 실버3 <br> level2|DP <br> 그리디 <br> 구현|
 
 
 ## 🔎Tips
@@ -61,3 +62,4 @@
 |2023.03.27|팀원 개인 사정|
 |2023.04.10|공채 서류 제출|
 |2023.04.27|팀원 개인 사정|
+|2023.05.03|팀원 개인 사정|
