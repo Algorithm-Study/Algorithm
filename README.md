@@ -43,7 +43,7 @@
 |2023.04.28|[백준 - 공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br>[백준 - 비슷한 단어](https://www.acmicpc.net/problem/2607) <br> [프로그래머스 - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |골드5 <br> 실버3 <br> level2|DP <br> 구현 <br> 완전탐색|
 |2023.05.01|[백준 - 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)<br>[백준 - KCPC](https://www.acmicpc.net/problem/3758) <br> [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |골드4 <br> 실버3 <br> level2|DP <br> 구현 <br> 구현|
 |2023.05.02|[백준 - 동전1](https://www.acmicpc.net/problem/2293)<br>[백준 - 타노스](https://www.acmicpc.net/problem/20310) <br> [프로그래머스 - 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |골드5 <br> 실버3 <br> level2|DP <br> 그리디 <br> 구현|
-|2023.05.04|[백준 - 내리막길](https://www.acmicpc.net/problem/1520)<br>[백준 - IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) <br> [프로그래머스 - 방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |골드5 <br> 실버3 <br> level2|그래프 <br> 이분 탐색 <br> 구현|
+|2023.05.04|[백준 - 내리막길](https://www.acmicpc.net/problem/1520)<br>[백준 - IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) <br> [프로그래머스 - 방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |골드5 <br> 실버3 <br> level2|DP <br> 이분 탐색 <br> 구현|
 
 
 
