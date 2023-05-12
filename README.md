@@ -47,6 +47,7 @@
 |2023.05.08|[백준 - 타일 채우기](https://www.acmicpc.net/problem/2133)<br>[백준 - 가희와 키워드](https://www.acmicpc.net/problem/22233) <br> [프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |골드4 <br> 실버2 <br> level3|DP <br> 해시 <br> 구현|
 |2023.05.09|[백준 - 파일 합치기](https://www.acmicpc.net/problem/11066)<br>[백준 - 랭킹전 대기열](https://www.acmicpc.net/problem/20006) <br> [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |골드3 <br> 실버2 <br> level3|DP <br> 구현 <br> 힙|
 |2023.05.10|[백준 - 팰린드롬?](https://www.acmicpc.net/problem/10942)<br>[백준 - 한 줄로 서기](https://www.acmicpc.net/problem/1138) <br> [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |골드4 <br> 실버2 <br> level3|DP <br> 그리디 <br> 그래프|
+|2023.05.11|[백준 - 수 묶기](https://www.acmicpc.net/problem/1744)<br>[백준 - IOIOI](https://www.acmicpc.net/problem/5525) <br> [소프티어 - 로봇이 지나간 경로](https://softeer.ai/practice/info.do?idx=1&eid=577) |골드4 <br> 실버1 <br> level3|그리디 <br> 구현 <br> 그래프|
 
 
 ## 🔎Tips
