@@ -49,6 +49,7 @@
 |2023.05.10|[백준 - 팰린드롬?](https://www.acmicpc.net/problem/10942)<br>[백준 - 한 줄로 서기](https://www.acmicpc.net/problem/1138) <br> [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |골드4 <br> 실버2 <br> level3|DP <br> 그리디 <br> 그래프|
 |2023.05.11|[백준 - 수 묶기](https://www.acmicpc.net/problem/1744)<br>[백준 - IOIOI](https://www.acmicpc.net/problem/5525) <br> [소프티어 - 로봇이 지나간 경로](https://softeer.ai/practice/info.do?idx=1&eid=577) |골드4 <br> 실버1 <br> level3|그리디 <br> 구현 <br> 그래프|
 |2023.05.12|[백준 - 크게 만들기](https://www.acmicpc.net/problem/2812) <br>[백준 - 스도쿠](https://www.acmicpc.net/problem/2239) <br>[백준 - 생태학](https://www.acmicpc.net/problem/4358) |골드3<br>골드4<br>실버2|그리디<br>백트래킹<br>구현|
+|2023.05.15|[백준 - 시간이 겹칠까?](https://www.acmicpc.net/problem/28018) <br>[백준 - 주식]( https://www.acmicpc.net/problem/11501) <br>[프로그래머스 - 등굣길]( https://school.programmers.co.kr/learn/courses/30/lessons/42898) |골드5<br>실버2<br>레벨3|누적 합<br>그리디<br>DP|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
