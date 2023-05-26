@@ -57,6 +57,7 @@
 |2023.05.22|[백준 - 주사위](https://www.acmicpc.net/problem/1041) <br>[백준 - 겹치는 건 싫어]( https://www.acmicpc.net/problem/20922) <br>[프로그래머스 - k진수에서 소수 개수 구하]( https://school.programmers.co.kr/learn/courses/30/lessons/92335) |골드5<br>실버1<br>레벨2|그리디<br>투 포인터<br>구현|
 |2023.05.23|[백준 - 회문](https://www.acmicpc.net/problem/17609) <br>[백준 - 1,2,3 더하기 4]( https://www.acmicpc.net/problem/15989) <br>[프로그래머스 - [1차] 프렌즈4블록]( https://school.programmers.co.kr/learn/courses/30/lessons/17679) |골드5<br>실버1<br>레벨2|투 포인터<br>DP<br>구현|
 |2023.05.24|[백준 - 인구이동](https://www.acmicpc.net/problem/16234) <br>[백준 - 지름길]( https://www.acmicpc.net/problem/1446) <br>[프로그래머스 - 쿼드압축 후 개수 세기]( https://school.programmers.co.kr/learn/courses/30/lessons/68936) |골드5<br>실버1<br>레벨2|그래프<br>DP<br>구현|
+|2023.05.25|[백준 - 개똥벌레](https://www.acmicpc.net/problem/3020) <br>[백준 - 볼 모으기]( https://www.acmicpc.net/problem/17615) <br>[프로그래머스 - 괄호 변환]( https://school.programmers.co.kr/learn/courses/30/lessons/60058) |골드5<br>실버1<br>레벨2|이분탐색<br>그리디<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
