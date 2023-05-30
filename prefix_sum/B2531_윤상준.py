@@ -7,4 +7,4 @@ for i in range(n):
     variation = max(variation, len(choice))
 print(variation)
 # Sliding Window
-# 포인터를 움직이는 것보다 길이를 두대 늘려서 진행
+# 포인터를 움직이는 것보다 길이를 두배 늘려서 진행
