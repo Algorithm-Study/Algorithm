@@ -59,6 +59,7 @@
 |2023.05.24|[백준 - 인구이동](https://www.acmicpc.net/problem/16234) <br>[백준 - 지름길]( https://www.acmicpc.net/problem/1446) <br>[프로그래머스 - 쿼드압축 후 개수 세기]( https://school.programmers.co.kr/learn/courses/30/lessons/68936) |골드5<br>실버1<br>레벨2|그래프<br>DP<br>구현|
 |2023.05.25|[백준 - 개똥벌레](https://www.acmicpc.net/problem/3020) <br>[백준 - 볼 모으기]( https://www.acmicpc.net/problem/17615) <br>[프로그래머스 - 괄호 변환]( https://school.programmers.co.kr/learn/courses/30/lessons/60058) |골드5<br>실버1<br>레벨2|이분탐색<br>그리디<br>구현|
 |2023.05.26|[백준 - 탑](https://www.acmicpc.net/problem/2493) <br>[백준 - 회전 초밥]( https://www.acmicpc.net/problem/2531) <br>[프로그래머스 - [3차] 방금그곡]( https://school.programmers.co.kr/learn/courses/30/lessons/17683?language=python3) |골드5<br>실버1<br>레벨2|스택<br>투 포인터<br>구현|
+|2023.05.30|[백준 - 좋다](https://www.acmicpc.net/problem/1253) <br>[백준 - 문자열 교환]( https://www.acmicpc.net/problem/1522) <br>[프로그래머스 - 거리두기 확인하기]( https://school.programmers.co.kr/learn/courses/30/lessons/81302) |골드4<br>실버1<br>레벨2|이분탐색<br>투 포인터<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
@@ -80,3 +81,4 @@
 |2023.05.03|팀원 개인 사정|
 |2023.05.05|법정 공휴일|
 |2023.05.29|대체 공휴일|
+|2023.05.31|팀원 개인 사정|
