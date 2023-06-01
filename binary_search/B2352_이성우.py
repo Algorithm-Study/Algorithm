@@ -9,5 +9,5 @@ for i in range(1, n):
         dp.append(s[i])
     else:
         dp[bisect(dp, s[i])] = s[i]
-print(dp)
+
 print(len(dp))
