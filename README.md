@@ -60,6 +60,7 @@
 |2023.05.25|[백준 - 개똥벌레](https://www.acmicpc.net/problem/3020) <br>[백준 - 볼 모으기]( https://www.acmicpc.net/problem/17615) <br>[프로그래머스 - 괄호 변환]( https://school.programmers.co.kr/learn/courses/30/lessons/60058) |골드5<br>실버1<br>레벨2|이분탐색<br>그리디<br>구현|
 |2023.05.26|[백준 - 탑](https://www.acmicpc.net/problem/2493) <br>[백준 - 회전 초밥]( https://www.acmicpc.net/problem/2531) <br>[프로그래머스 - [3차] 방금그곡]( https://school.programmers.co.kr/learn/courses/30/lessons/17683?language=python3) |골드5<br>실버1<br>레벨2|스택<br>투 포인터<br>구현|
 |2023.05.30|[백준 - 좋다](https://www.acmicpc.net/problem/1253) <br>[백준 - 문자열 교환]( https://www.acmicpc.net/problem/1522) <br>[프로그래머스 - 거리두기 확인하기]( https://school.programmers.co.kr/learn/courses/30/lessons/81302) |골드4<br>실버1<br>레벨2|이분탐색<br>투 포인터<br>구현|
+|2023.06.01|[백준 - 반도체 설계](https://www.acmicpc.net/problem/2352) <br>[백준 - 컨베이어 벨트 위의 로봇]( https://www.acmicpc.net/problem/20055) <br>[프로그래머스 - 2개 이하로 다른 비트]( https://school.programmers.co.kr/learn/courses/30/lessons/77885) |골드2<br>골드5<br>레벨2|이분탐색<br>구현<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
