@@ -64,6 +64,7 @@
 |2023.06.02|[백준 - 최소비용 구하기](https://www.acmicpc.net/problem/1916) <br>[백준 - 문자열 게임 2]( https://www.acmicpc.net/problem/20437) <br>[프로그래머스 - 교점에 별 만들기]( https://school.programmers.co.kr/learn/courses/30/lessons/87377) |골드5<br>골드5<br>레벨2|그래프<br>슬라이딩 윈도우<br>구현|
 |2023.06.05|[백준 - 소형기관차](https://www.acmicpc.net/problem/2616) <br>[백준 - 빗물]( https://www.acmicpc.net/problem/14719) <br>[프로그래머스 - 배달]( https://school.programmers.co.kr/learn/courses/30/lessons/12978) |골드3<br>골드5<br>레벨2|누적합<br>구현<br>그래프|
 |2023.06.07|[백준 - 전화번호 목록](https://www.acmicpc.net/problem/5052) <br>[프로그래머스 - 숫자 게임]( https://school.programmers.co.kr/learn/courses/30/lessons/12987) <br>[백준 - 톱니바퀴]( https://www.acmicpc.net/problem/14891) |골드4<br>레벨3<br>골드5|문자열<br>구현<br>구현|
+|2023.06.08|[백준 - 공항](https://www.acmicpc.net/problem/10775) <br>[프로그래머스 - 기지국 설치]( https://school.programmers.co.kr/learn/courses/30/lessons/12979) <br>[백준 - 치킨 배달]( https://www.acmicpc.net/problem/15686) |골드2<br>레벨3<br>골드5|그리디<br>구현<br>백트래킹|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
