@@ -69,6 +69,7 @@
 |2023.06.12|[백준 - 입국심사](https://www.acmicpc.net/problem/3079) <br>[프로그래머스 - 보석 쇼핑]( https://school.programmers.co.kr/learn/courses/30/lessons/67258) <br>[백준 - 맥주 마지면서 걸어가기]( https://www.acmicpc.net/problem/9205) |골드5<br>레벨3<br>골드5|이분탐색<br>구현<br>그래프|
 |2023.06.13|[백준 - 나머지 합](https://www.acmicpc.net/problem/10986) <br>[프로그래머스 - 가장 먼 노드]( https://school.programmers.co.kr/learn/courses/30/lessons/49189) <br>[백준 - 잃어버린 괄호]( https://www.acmicpc.net/problem/1541) |골드3<br>레벨3<br>실버2|누적합<br>그래프<br>그리디|
 |2023.06.14|[백준 - PPAP](https://www.acmicpc.net/problem/16120) <br>[프로그래머스 - 섬 연결하기]( https://school.programmers.co.kr/learn/courses/30/lessons/42861) <br>[백준 - 빙산]( https://www.acmicpc.net/problem/2573) |골드4<br>레벨3<br>골드4|그리디<br>그리디<br>그래프|
+|2023.06.15|[백준 - 과제](https://www.acmicpc.net/problem/13904) <br>[백준 - 택배 배송]( https://www.acmicpc.net/problem/5972) <br>[프로그래머스 - 여행경로]( https://school.programmers.co.kr/learn/courses/30/lessons/43164) |골드3<br>골드5<br>레벨3|그리디<br>그래프<br>그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
