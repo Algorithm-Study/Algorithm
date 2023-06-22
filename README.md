@@ -74,6 +74,7 @@
 |2023.06.19|[백준 - 사다리 조작](https://www.acmicpc.net/problem/15684) <br>[백준 - 전구와 스위치]( https://www.acmicpc.net/problem/2138) <br>[프로그래머스 - 합승 택시 요금]( https://school.programmers.co.kr/learn/courses/30/lessons/72413) |골드3<br>골드5<br>레벨3|백트래킹<br>그리디<br>그래프|
 |2023.06.20|[백준 - 컬러볼](https://www.acmicpc.net/problem/10800) <br>[백준 - 틱택토]( https://www.acmicpc.net/problem/7682) <br>[프로그래머스 - 경주로 건설]( https://school.programmers.co.kr/learn/courses/30/lessons/67259) |골드3<br>골드5<br>레벨3|누적합<br>구현<br>그래프|
 |2023.06.21|[백준 - 꿀 따기](https://www.acmicpc.net/problem/21758) <br>[백준 - 숫자고르기]( https://www.acmicpc.net/problem/2668) <br>[프로그래머스 - 징검다리 건너기]( https://school.programmers.co.kr/learn/courses/30/lessons/64062) |골드5<br>골드5<br>레벨3|누적 합<br>그래프<br>구현|
+|2023.06.22|[백준 - 수들의 합4](https://www.acmicpc.net/problem/2015) <br>[백준 - 스카이라인 쉬운거]( https://www.acmicpc.net/problem/1863) <br>[프로그래머스 - 입국심사]( https://school.programmers.co.kr/learn/courses/30/lessons/43238) |골드4<br>골드4<br>레벨3|누적합<br>스택<br>이분탐색|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
