@@ -76,6 +76,7 @@
 |2023.06.21|[백준 - 꿀 따기](https://www.acmicpc.net/problem/21758) <br>[백준 - 숫자고르기]( https://www.acmicpc.net/problem/2668) <br>[프로그래머스 - 징검다리 건너기]( https://school.programmers.co.kr/learn/courses/30/lessons/64062) |골드5<br>골드5<br>레벨3|누적 합<br>그래프<br>구현|
 |2023.06.22|[백준 - 수들의 합4](https://www.acmicpc.net/problem/2015) <br>[백준 - 스카이라인 쉬운거]( https://www.acmicpc.net/problem/1863) <br>[프로그래머스 - 입국심사]( https://school.programmers.co.kr/learn/courses/30/lessons/43238) |골드4<br>골드4<br>레벨3|누적합<br>스택<br>이분탐색|
 |2023.06.23|[백준 - 좀비](https://www.acmicpc.net/problem/11952) <br>[백준 - 빌런 호석]( https://www.acmicpc.net/problem/22251) <br>[프로그래머스 - 가장 긴 팰린드롬]( https://school.programmers.co.kr/learn/courses/30/lessons/12904) |골드2<br>골드5<br>레벨3|그래프<br>완전 탐색<br>구현|
+|2023.06.26|[백준 - 텀 프로젝트](https://www.acmicpc.net/problem/9466) <br>[백준 - 0 만들기]( https://www.acmicpc.net/problem/7490) <br>[백준 - 구간 합 구하기 5]( https://www.acmicpc.net/problem/11660) |골드3<br>골드5<br>실버1|그래프<br>구현<br>다이나믹 프로그래밍|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
