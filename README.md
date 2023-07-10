@@ -79,6 +79,7 @@
 |2023.06.26|[백준 - 텀 프로젝트](https://www.acmicpc.net/problem/9466) <br>[백준 - 0 만들기]( https://www.acmicpc.net/problem/7490) <br>[백준 - 구간 합 구하기 5]( https://www.acmicpc.net/problem/11660) |골드3<br>골드5<br>실버1|그래프<br>구현<br>다이나믹 프로그래밍|
 |2023.06.27|[백준 - 약수의 합](https://www.acmicpc.net/problem/17425) <br>[백준 - 부분합]( https://www.acmicpc.net/problem/1806) <br>[백준 - Z]( https://www.acmicpc.net/problem/1074) |골드4<br>골드4<br>실버1|누적 합<br>누적 합<br>구현|
 |2023.06.28|[백준 - 욕심쟁이 판다](https://www.acmicpc.net/problem/1937) <br>[백준 - 공유기 설치]( https://www.acmicpc.net/problem/2110) <br>[백준 - 랜선자르기]( https://www.acmicpc.net/problem/1654) |골드3<br>골드4<br>실버2|그래프<br>이분 탐색<br>이분 탐색|
+|2023.06.29|[백준 - 소문난 칠공주](https://www.acmicpc.net/problem/1941) <br>[백준 - 불!]( https://www.acmicpc.net/problem/4179) |골드3<br>골드4|그래프<br>그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
