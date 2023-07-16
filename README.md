@@ -84,7 +84,8 @@
 |2023.07.10|[백준 - 사냥꾼](https://www.acmicpc.net/problem/8983) <br>[백준 - 여행 가자]( https://www.acmicpc.net/problem/1976) <br>[백준 - 가장 긴 증가하는 부분 수열]( https://www.acmicpc.net/problem/11053) |골드4<br>골드4<br>실버2|이분탐색<br>그래프<br>dp|
 |2023.07.11|[백준 - 보물섬](https://www.acmicpc.net/problem/2589) <br>[백준 - 집합의 표현]( https://www.acmicpc.net/problem/1717) <br>[백준 - 동물원]( https://www.acmicpc.net/problem/1309) |골드5<br>골드5<br>실버1|완전탐색<br>분리 집합<br>dp|
 |2023.07.12|[백준 - 점수 따먹기](https://www.acmicpc.net/problem/1749) <br>[백준 - 고층 건물]( https://www.acmicpc.net/problem/1027) <br>[백준 - 소셜 네트워킹 어플리케이션]( https://www.acmicpc.net/problem/7511) |골드4<br>골드4<br>골드 5|누적합<br>완전 탐색<br>분리 집합|
- 
+|2023.07.13|[백준 - 빵집](https://www.acmicpc.net/problem/3109) <br>[백준 - 비슷한 단어]( https://www.acmicpc.net/problem/2179) <br>[백준 - 피리 부는 사나이]( https://www.acmicpc.net/problem/16724) |골드2<br>골드4<br>골드3|그래프<br>구현<br>분리집합|
+
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
@@ -107,3 +108,5 @@
 |2023.05.29|대체 공휴일|
 |2023.05.31|팀원 개인 사정|
 |2023.06.06|법정 공휴일|
+|2023.07.03 ~ 2023.07.07|여름 휴가|
+|2023.07.14|팀원 개인 사정|
