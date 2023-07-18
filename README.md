@@ -85,6 +85,7 @@
 |2023.07.11|[백준 - 보물섬](https://www.acmicpc.net/problem/2589) <br>[백준 - 집합의 표현]( https://www.acmicpc.net/problem/1717) <br>[백준 - 동물원]( https://www.acmicpc.net/problem/1309) |골드5<br>골드5<br>실버1|완전탐색<br>분리 집합<br>dp|
 |2023.07.12|[백준 - 점수 따먹기](https://www.acmicpc.net/problem/1749) <br>[백준 - 고층 건물]( https://www.acmicpc.net/problem/1027) <br>[백준 - 소셜 네트워킹 어플리케이션]( https://www.acmicpc.net/problem/7511) |골드4<br>골드4<br>골드 5|누적합<br>완전 탐색<br>분리 집합|
 |2023.07.13|[백준 - 빵집](https://www.acmicpc.net/problem/3109) <br>[백준 - 비슷한 단어]( https://www.acmicpc.net/problem/2179) <br>[백준 - 피리 부는 사나이]( https://www.acmicpc.net/problem/16724) |골드2<br>골드4<br>골드3|그래프<br>구현<br>분리집합|
+|2023.07.17|[백준 - 감시](https://www.acmicpc.net/problem/15683) <br>[백준 - 줄세우기]( https://www.acmicpc.net/problem/2631) <br>[백준 - 적록색약]( https://www.acmicpc.net/problem/10026) |골드4<br>골드4<br>골드5|백트래킹<br>DP<br>그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
