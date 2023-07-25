@@ -1,5 +1,5 @@
 from collections import defaultdict
-from string import  ascii_lowercase
+from string import ascii_lowercase
 alphabet = defaultdict(int)
 # 규칙에 의해 a,n,t,i,c는 항상 포함되는 단어
 rules = ['a','n','t','i','c']
