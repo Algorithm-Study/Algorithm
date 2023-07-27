@@ -7,7 +7,7 @@ dy = [0, -1, 0, 1]
 n, m = map(int, input().split())
 cheeze = []
 count = 0
-#입릭 몇 처음 치즈 갯수 계산
+#입릭 및 처음 치즈 갯수 계산
 for i in range(n):
     cheeze.append(list(map(int, input().split())))
     count += sum(cheeze[i])
