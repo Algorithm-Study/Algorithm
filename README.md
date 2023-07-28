@@ -90,6 +90,7 @@
 |2023.07.24|[백준 - 가르침](https://www.acmicpc.net/problem/1062) <br>[백준 - 이차원 배열과 연산]( https://www.acmicpc.net/problem/17140) <br>[백준 - 상어 초등학교]( https://www.acmicpc.net/problem/21608) |골드4<br>골드4<br>골드5|백트래킹<br>삼성<br>구현|
 |2023.07.25|[백준 - 로봇 프로젝트](https://www.acmicpc.net/problem/3649) <br>[백준 - 게리맨더링 2]( https://www.acmicpc.net/problem/17779) <br>[백준 - 졸려]( https://www.acmicpc.net/problem/9519) |골드5<br>골드3<br>골드5|이분탐색<br>삼성<br>구현|
 |2023.07.26|[백준 - 암호코드](https://www.acmicpc.net/problem/2011) <br>[백준 - 어두운 굴다리]( https://www.acmicpc.net/problem/17266) <br>[백준 - 치즈]( https://www.acmicpc.net/problem/2636) |골드5<br>실버4<br>골드4|DP<br>구현<br>구현|
+|2023.07.27|[백준 - 동전2](https://www.acmicpc.net/problem/2294) <br>[백준 - 탑 보기]( https://www.acmicpc.net/problem/22866) <br>[백준 - 로봇 시뮬레이]( https://www.acmicpc.net/problem/2174) |골드5<br>골드3<br>골드5|DP<br>스택<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
