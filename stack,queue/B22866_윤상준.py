@@ -29,7 +29,7 @@ for idx,tower in reversed(list(enumerate(towers))):
         # 지점으로부터의 거리가 짧은 경우
         if distance < record[idx+1][1]:
             record[idx+1] = [stack[-1][0], distance]
-        # 지점으로부터의 걸리가 짧은 경우
+        # 지점으로부터의 거리가 짧은 경우
         elif distance == record[idx+1][1] and stack[-1][0] < record[idx+1][0]:
             record[idx+1][0] = stack[-1][0]
     stack.append([idx+1,tower])
