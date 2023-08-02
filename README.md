@@ -93,6 +93,7 @@
 |2023.07.27|[백준 - 동전2](https://www.acmicpc.net/problem/2294) <br>[백준 - 탑 보기]( https://www.acmicpc.net/problem/22866) <br>[백준 - 로봇 시뮬레이]( https://www.acmicpc.net/problem/2174) |골드5<br>골드3<br>골드5|DP<br>스택<br>구현|
 |2023.07.28|[백준 - 캐슬 디펜스](https://www.acmicpc.net/problem/17135) <br>[코드트리 - 메이즈 러너]( https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/) |골드3<br>골드3|삼성<br>삼성|
 |2023.07.31|[백준 - 휴게소 세우기](https://www.acmicpc.net/problem/1477) <br>[백준 - 아기 상어]( https://www.acmicpc.net/problem/16236) |골드4<br>골드3|이분탐색<br>삼성|
+|2023.08.01|[백준 - 합이 0인 네 정수](https://www.acmicpc.net/problem/7453) <br>[백준 - 마법사 상어와 파이어볼]( https://www.acmicpc.net/problem/20056) |골드2<br>골드4|이분탐색<br>삼성|
 
 
 ## 🔎Tips
