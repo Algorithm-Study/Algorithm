@@ -1,6 +1,9 @@
 # Algorithm
 
-## 🗓️일자별 진행사항
+## 🗓️분기별 진행사항
+<details>
+<summary> <b>2023년 1분기</b> </summary>
+  
 |날짜|문제|난이도|카테고리|
 |:---:|:---:|:---:|:---:|
 |2023.02.20|[백준 - 촌수계산](https://www.acmicpc.net/problem/2644) <br> [프로그래머스 - 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) <br> [프로그래머스 - 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|실버2 <br> lv2 <br> lv1|그래프 <br> 그리디 <br> 구현|
@@ -23,6 +26,14 @@
 |2023.03.29|[백준 - 2048(EASY)](https://www.acmicpc.net/problem/12100)<br>[프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)<br>[프로그래머스 - 공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) <br> [백준 - 배열 돌리기 1](https://www.acmicpc.net/problem/16926)|골드2 <br>lv2<br>lv1 <br> 실버1|시뮬레이션 <br> 완전 탐색 <br> 구현 <br> 구현|
 |2023.03.30|[백준 - 모노미노도미노 2](https://www.acmicpc.net/problem/20061)<br>[백준 - 집합](https://www.acmicpc.net/problem/23971)<br>[프로그래머스 - 바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br> [백준 - 뱀](https://www.acmicpc.net/problem/3190)|골드2 <br>실버5<br>lv1 <br> 골드4|시뮬레이션 <br> 구현 <br> 구현 <br> 시뮬레이션|
 |2023.03.31|[백준 - 낚시왕](https://www.acmicpc.net/problem/17143)<br>[백준 - A와B 2](https://www.acmicpc.net/problem/12919)<br>[프로그래머스 - 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) <br> [백준 - 연구소](https://www.acmicpc.net/problem/14502)|골드1 <br>골드5<br>lv1 <br> 골드4|시뮬레이션 <br> 완전탐색 <br> 구현 <br> 그래프|
+
+</details>
+
+<details>
+<summary> <b>2023년 2분기</b> </summary>
+
+|날짜|문제|난이도|카테고리|
+|:---:|:---:|:---:|:---:|
 |2023.04.03|[백준 - 주사위 굴리기](https://www.acmicpc.net/problem/14499)<br>[백준 - 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)<br>[프로그래머스 - 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) <br> [백준 - 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|골드4 <br>골드3 <br>lv2 <br> 골드3|시뮬레이션 <br> 시뮬레이션 <br> 그리디 <br> 시뮬레이션|
 |2023.04.04|[백준 - 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)<br>[프로그래머스 - 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) <br> [백준 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|골드3 <br>lv2 <br> 골드3|완전 탐색 <br> 구현 <br> 그래프|
 |2023.04.05|[백준 - 최단 경로](https://www.acmicpc.net/problem/1753)<br>[프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) <br> [백준 - 숨바꼭질3](https://www.acmicpc.net/problem/13549)|골드4 <br>lv2 <br> 골드5|그레프 <br> 스택 <br> 그래프|
@@ -81,6 +92,11 @@
 |2023.06.28|[백준 - 욕심쟁이 판다](https://www.acmicpc.net/problem/1937) <br>[백준 - 공유기 설치]( https://www.acmicpc.net/problem/2110) <br>[백준 - 랜선자르기]( https://www.acmicpc.net/problem/1654) |골드3<br>골드4<br>실버2|그래프<br>이분 탐색<br>이분 탐색|
 |2023.06.29|[백준 - 소문난 칠공주](https://www.acmicpc.net/problem/1941) <br>[백준 - 불!]( https://www.acmicpc.net/problem/4179) |골드3<br>골드4|그래프<br>그래프|
 |2023.06.30|[백준 - 암호 만들기](https://www.acmicpc.net/problem/1759) <br>[백준 - List of Unique Numbers]( https://www.acmicpc.net/problem/13144) <br>[백준 - 파이프 옮기기1]( https://www.acmicpc.net/problem/17070) |골드5<br>골드4<br>골드5|백트래킹<br>투 포인터<br>DP|
+
+</details>
+
+|날짜|문제|난이도|카테고리|
+|:---:|:---:|:---:|:---:|
 |2023.07.10|[백준 - 사냥꾼](https://www.acmicpc.net/problem/8983) <br>[백준 - 여행 가자]( https://www.acmicpc.net/problem/1976) <br>[백준 - 가장 긴 증가하는 부분 수열]( https://www.acmicpc.net/problem/11053) |골드4<br>골드4<br>실버2|이분탐색<br>그래프<br>dp|
 |2023.07.11|[백준 - 보물섬](https://www.acmicpc.net/problem/2589) <br>[백준 - 집합의 표현]( https://www.acmicpc.net/problem/1717) <br>[백준 - 동물원]( https://www.acmicpc.net/problem/1309) |골드5<br>골드5<br>실버1|완전탐색<br>분리 집합<br>dp|
 |2023.07.12|[백준 - 점수 따먹기](https://www.acmicpc.net/problem/1749) <br>[백준 - 고층 건물]( https://www.acmicpc.net/problem/1027) <br>[백준 - 소셜 네트워킹 어플리케이션]( https://www.acmicpc.net/problem/7511) |골드4<br>골드4<br>골드 5|누적합<br>완전 탐색<br>분리 집합|
