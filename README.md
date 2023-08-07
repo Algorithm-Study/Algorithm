@@ -111,7 +111,7 @@
 |2023.07.31|[백준 - 휴게소 세우기](https://www.acmicpc.net/problem/1477) <br>[백준 - 아기 상어]( https://www.acmicpc.net/problem/16236) |골드4<br>골드3|이분탐색<br>삼성|
 |2023.08.01|[백준 - 합이 0인 네 정수](https://www.acmicpc.net/problem/7453) <br>[백준 - 마법사 상어와 파이어볼]( https://www.acmicpc.net/problem/20056) |골드2<br>골드4|이분탐색<br>삼성|
 |2023.08.02|[백준 - 합분해](https://www.acmicpc.net/problem/2225) <br>[백준 - 나무 재테크]( https://www.acmicpc.net/problem/16235) |골드5<br>골드 3|DP<br>삼성|
-|2023.08.04|[코드트리 - 포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=3&pageSize=20) <br>[백준 - 치즈]( https://www.acmicpc.net/problem/2636) |골드1<br>골드4|삼성<br>그래프|
+|2023.08.04|[코드트리 - 포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=3&pageSize=20) <br>[백준 - 치즈]( https://www.acmicpc.net/problem/2636) |골드1<br>골드4|삼성<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
