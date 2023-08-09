@@ -114,6 +114,7 @@
 |2023.08.04|[코드트리 - 포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=3&pageSize=20) <br>[백준 - 치즈]( https://www.acmicpc.net/problem/2636) |골드1<br>골드4|삼성<br>구현|
 |2023.08.07|[백준 - 세 수의 합](https://www.acmicpc.net/problem/2295) <br>[백준 - 드래곤 커브]( https://www.acmicpc.net/problem/15685) |골드4<br>골드4|이분탐색<br>구현|
 |2023.08.08|[백준 - ABCDE](https://www.acmicpc.net/problem/13023) <br>[백준 - Puyo Puyo]( https://www.acmicpc.net/problem/11559) |골드5<br>골드4|그래프<br>구현|
+|2023.08.09|[백준 - 치즈](https://www.acmicpc.net/problem/2638) <br>[백준 - 여왕]( https://www.acmicpc.net/problem/10836) |골드3<br>골드4|그래프<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
