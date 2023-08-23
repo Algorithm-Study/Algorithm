@@ -119,6 +119,7 @@
 |2023.08.16|[백준 - 구슬 찾기](https://www.acmicpc.net/problem/2617) <br>[백준 - 네잎 클로버를 찾아서]( https://www.acmicpc.net/problem/3089) |골드4<br>골드2|그래프<br>구현|
 |2023.08.17|[백준 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) <br>[백준 - RBY팡!]( https://www.acmicpc.net/problem/5577) |골드4<br>골드2|그래프<br>구현|
 |2023.08.18|[코드트리 - 코드트리 빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=3&pageSize=20) <br>[백준 - 탄성 충돌]( https://www.acmicpc.net/problem/16891) |골드2<br>골드2|삼성<br>구현|
+|2023.08.22|[백준 - 피자 판매](https://www.acmicpc.net/problem/2632) <br>[백준 - 청소년 상어]( https://www.acmicpc.net/problem/19236) |골드2<br>골드2|누적합<br>삼성|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
