@@ -123,6 +123,7 @@
 |2023.08.23|[백준 - 이분 그래프](https://www.acmicpc.net/problem/1707) <br>[백준 - 어른 상어]( https://www.acmicpc.net/problem/19237) |골드4<br>골드2|그래프<br>삼성|
 |2023.08.25|[코드트리 - 싸움 땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground?page=3&pageSize=20) <br>[백준 - 새로운 게임]( https://www.acmicpc.net/problem/17780) |골드2<br>골드2|삼성<br>구현|
 |2023.08.29|[백준 - 친구 네트워크](https://www.acmicpc.net/problem/4195) <br>[백준 - 새로운 게임 2]( https://www.acmicpc.net/problem/17837) |골드2<br>골드2|유니온 파인드<br>구현|
+|2023.08.30|[백준 - 중량제한](https://www.acmicpc.net/problem/1939) <br>[백준 - 주사위 굴리기2]( https://www.acmicpc.net/problem/23288) |골드3<br>골드3|유니온 파인드<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
