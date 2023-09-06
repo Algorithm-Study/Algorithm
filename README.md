@@ -126,6 +126,7 @@
 |2023.08.30|[백준 - 중량제한](https://www.acmicpc.net/problem/1939) <br>[백준 - 주사위 굴리기2]( https://www.acmicpc.net/problem/23288) |골드3<br>골드3|유니온 파인드<br>구현|
 |2023.08.31|[백준 - 꼬인 전깃줄](https://www.acmicpc.net/problem/1365) <br>[백준 - 경사로]( https://www.acmicpc.net/problem/14890) |골드2<br>골드3|이분탐색<br>삼성|
 |2023.09.01|[코드트리 - 꼬리잡기놀이](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=3&pageSize=20) <br>[백준 - 가희와 탑]( https://www.acmicpc.net/problem/24337) <br>[백준 - 통나무 옮기기]( https://www.acmicpc.net/problem/1938) |골드1<br>골드3<br>골드3|삼성<br>그리디<br>구현|
+|2023.09.04|[백준 - 서강그라운드](https://www.acmicpc.net/problem/14938) <br>[백준 - 괄호 추가하기]( https://www.acmicpc.net/problem/16637) |골드4<br>골드3|그래프<br>구현|
 |2023.09.05|[백준 - 미로 만들기](https://www.acmicpc.net/problem/2665) <br>[백준 - 양 구출 작전]( https://www.acmicpc.net/problem/16437) |골드4<br>골드3|그래프<br>그래프|
 
 ## 🔎Tips
