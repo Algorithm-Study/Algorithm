@@ -129,6 +129,7 @@
 |2023.09.04|[백준 - 서강그라운드](https://www.acmicpc.net/problem/14938) <br>[백준 - 괄호 추가하기]( https://www.acmicpc.net/problem/16637) |골드4<br>골드3|그래프<br>구현|
 |2023.09.05|[백준 - 미로 만들기](https://www.acmicpc.net/problem/2665) <br>[백준 - 양 구출 작전]( https://www.acmicpc.net/problem/16437) |골드4<br>골드3|그래프<br>그래프|
 |2023.09.06|[백준 - 미확인 도착지](https://www.acmicpc.net/problem/9370) <br>[백준 - Two dots]( https://www.acmicpc.net/problem/16929) |골드2<br>골드4|그래프<br>그래프|
+|2023.09.07|[백준 - 백도어](https://www.acmicpc.net/problem/17396) <br>[백준 - 양팔저울]( https://www.acmicpc.net/problem/2629) |골드5<br>골드3|그래프<br>dp|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
