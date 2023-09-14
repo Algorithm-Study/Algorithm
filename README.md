@@ -134,6 +134,7 @@
 |2023.09.11|[백준 - 키 순서](https://www.acmicpc.net/problem/2458) <br>[백준 - 스티커 붙이기]( https://www.acmicpc.net/problem/18808) |골드4<br>골드3|그래프<br>구현|
 |2023.09.12|[백준 - 퍼즐](https://www.acmicpc.net/problem/1525) <br>[백준 - 배열 돌리기4]( https://www.acmicpc.net/problem/17406) |골드2<br>골드4|그래프<br>구현|
 |2023.09.13|[백준 - 체스판 칠하기2](https://www.acmicpc.net/problem/25682) <br>[백준 - 괄호의 값]( https://www.acmicpc.net/problem/2504) |골드5<br>골드5|누적합<br>스택|
+|2023.09.14|[백준 - 알고스팟](https://www.acmicpc.net/problem/1261) <br>[백준 - A와 B]( https://www.acmicpc.net/problem/12904) |골드4<br>골드5|그래프<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
