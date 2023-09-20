@@ -136,7 +136,7 @@
 |2023.09.13|[백준 - 체스판 칠하기2](https://www.acmicpc.net/problem/25682) <br>[백준 - 괄호의 값]( https://www.acmicpc.net/problem/2504) |골드5<br>골드5|누적합<br>스택|
 |2023.09.14|[백준 - 알고스팟](https://www.acmicpc.net/problem/1261) <br>[백준 - A와 B]( https://www.acmicpc.net/problem/12904) |골드4<br>골드5|그래프<br>구현|
 |2023.09.18|[코드트리 - 팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20) |골드1|삼성|
-
+|2023.09.20|[코드트리 - 나무박멸](https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20) |골드4|삼성|
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
