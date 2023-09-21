@@ -137,6 +137,7 @@
 |2023.09.14|[백준 - 알고스팟](https://www.acmicpc.net/problem/1261) <br>[백준 - A와 B]( https://www.acmicpc.net/problem/12904) |골드4<br>골드5|그래프<br>구현|
 |2023.09.18|[코드트리 - 팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20) |골드1|삼성|
 |2023.09.19|[백준 - 빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!](https://www.acmicpc.net/problem/28140) <br>[백준 - 평범한 배낭]( https://www.acmicpc.net/problem/12865) |골드5<br>골드5|이분탐색<br>dp|
+|2023.09.20|[코드트리 - 나무박멸](https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20) |골드4|삼성|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
