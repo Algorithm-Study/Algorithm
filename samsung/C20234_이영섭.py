@@ -2,8 +2,9 @@ import heapq
 from collections import defaultdict
 
 grader = []
+grader_dict = defaultdict(int)
 g_num = 0
-waiting_queue = []
+waiting_queue = defaultdict(list)
 waiting_queue_dict = defaultdict(int)
 dm = defaultdict(int)
 
@@ -11,29 +12,38 @@ dm = defaultdict(int)
 def grader_init(n, domain, pid):
     global grader
     grader = [0]*n
-    heapq.heappush(waiting_queue, (1, 0, domain, pid))
+    heapq.heappush(waiting_queue[domain], (1, 0, pid))
     waiting_queue_dict[(domain, pid)] = 1
 
 
 def grading_request(t, p, domain, pid):
     if waiting_queue_dict[(domain, pid)] == 0:
-        heapq.heappush(waiting_queue, (p, t, domain, pid))
+        heapq.heappush(waiting_queue[domain], (p, t, pid))
         waiting_queue_dict[(domain, pid)] = 1
 
 
 def grading_attempt(st):
     global g_num
-    # print("g_num", g_num)
-    if len(waiting_queue) == 0:
+    if g_num >= len(grader):
         return
-    p, t, domain, pid = heapq.heappop(waiting_queue)
-    if g_num >= len(grader) or dm[domain] > st:
-        heapq.heappush(waiting_queue, (p, t, domain, pid))
-        return
-    waiting_queue_dict[(domain, pid)] = 0
-    grader[g_num] = (domain, st)
-    while g_num < len(grader) and grader[g_num] != 0:
-        g_num += 1
+    min_url = (float('inf'), float('inf'))
+    min_domain = ''
+
+    for key in waiting_queue.keys():
+        if len(waiting_queue[key]) == 0 or grader_dict[key] == 1 or dm[key] > st:
+            continue
+        item = min(waiting_queue[key])
+        if item[:2] < min_url:
+            min_url = item[:2]
+            min_domain = key
+
+    if min_url != (float('inf'), float('inf')):
+        p, t, pid = heapq.heappop(waiting_queue[min_domain])
+        waiting_queue_dict[(min_domain, pid)] = 0
+        grader[g_num] = (min_domain, st)
+        grader_dict[min_domain] = 1
+        while g_num < len(grader) and grader[g_num] != 0:
+            g_num += 1
 
 
 def grading_ends(t, jid):
@@ -42,13 +52,18 @@ def grading_ends(t, jid):
         return
     domain, st = grader[jid]
     grader[jid] = 0
+    grader_dict[domain] = 0
     dm[domain] = st + (t - st) * 3
     if jid < g_num:
         g_num = jid
+    # print("g_num", g_num)
 
 
 def check_queue():
-    return len(waiting_queue)
+    cnt = 0
+    for key in waiting_queue.keys():
+        cnt += len(waiting_queue[key])
+    return cnt
 
 
 q = int(input())
