@@ -140,7 +140,7 @@
 |2023.09.20|[코드트리 - 나무박멸](https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20) |골드4|삼성|
 |2023.09.21|[백준 - 택배](https://www.acmicpc.net/problem/1719) <br>[백준 - ⚾]( https://www.acmicpc.net/problem/17281) |골드3<br>골드4|그래프<br>구현|
 |2023.09.22|[코드트리 - 코드트리 채점기](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-judger/description?page=1&pageSize=20) <br>[백준 - 경쟁적 전염]( https://www.acmicpc.net/problem/18405) <br>[백준 - 네트워크 복구]( https://www.acmicpc.net/problem/2211) |플레5<br>골드5<br>골드2|삼성<br>구현<br>그래프|
-
+|2023.09.27|[코드트리 - 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20) <br>[백준 - 후위 표기식]( https://www.acmicpc.net/problem/1918) |골드3<br>골드2|삼성<br>스택|
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
