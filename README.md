@@ -95,6 +95,9 @@
 
 </details>
 
+<details>
+<summary> <b>2023년 3분기</b> </summary>
+
 |날짜|문제|난이도|카테고리|
 |:---:|:---:|:---:|:---:|
 |2023.07.10|[백준 - 사냥꾼](https://www.acmicpc.net/problem/8983) <br>[백준 - 여행 가자]( https://www.acmicpc.net/problem/1976) <br>[백준 - 가장 긴 증가하는 부분 수열]( https://www.acmicpc.net/problem/11053) |골드4<br>골드4<br>실버2|이분탐색<br>그래프<br>DP|
@@ -143,6 +146,12 @@
 |2023.09.26|[백준 - 해킹](https://www.acmicpc.net/problem/10282) <br>[백준 - 카드 정렬하기]( https://www.acmicpc.net/problem/1715) |골드4<br>골드4|그래프<br>우선순위 큐|
 |2023.09.27|[코드트리 - 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20) <br>[백준 - 후위 표기식]( https://www.acmicpc.net/problem/1918) |골드3<br>골드2|삼성<br>스택|
 
+</details>
+
+|날짜|문제|난이도|카테고리|
+|:---:|:---:|:---:|:---:|
+|2023.10.02|[백준 - 미친 로봇](https://www.acmicpc.net/problem/1405) <br>[백준 - 문제집]( https://www.acmicpc.net/problem/1766) |골드4<br>골드2|완전탐색<br>그래프|
+
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
@@ -176,3 +185,5 @@
 |2023.08.24~25|팀원 개인 사정|
 |2023.09.18|삼성 공채 지원|
 |2023.09.25|팀원 개인 사정|
+|2023.09.28 ~ 2023.09.29|추석 연휴|
+|2023.10.03|법정 공휴일|
