@@ -151,6 +151,7 @@
 |날짜|문제|난이도|카테고리|
 |:---:|:---:|:---:|:---:|
 |2023.10.02|[백준 - 미친 로봇](https://www.acmicpc.net/problem/1405) <br>[백준 - 문제집]( https://www.acmicpc.net/problem/1766) |골드4<br>골드2|완전탐색<br>그래프|
+|2023.10.04|[백준 - 네트워크](https://www.acmicpc.net/problem/1922) <br>[백준 - 배]( https://www.acmicpc.net/problem/1092 ) |골드4<br>골드5|유니온 파인드<br>그리디|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
