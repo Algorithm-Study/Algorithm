@@ -154,6 +154,7 @@
 |2023.10.04|[백준 - 네트워크](https://www.acmicpc.net/problem/1922) <br>[백준 - 배]( https://www.acmicpc.net/problem/1092 ) |골드4<br>골드5|유니온 파인드<br>그리디|
 |2023.10.05|[백준 - 회장 뽑기](https://www.acmicpc.net/problem/2660) <br>[백준 - 도서관]( https://www.acmicpc.net/problem/1461) |골드5<br>골드4|그래프<br>그리디|
 |2023.10.06|[백준 - 탈출](https://www.acmicpc.net/problem/3055) <br>[백준 - 순회강연]( https://www.acmicpc.net/problem/2109) |골드4<br>골드3|그래프<br>그리디|
+|2023.10.10|[백준 - 게임](https://www.acmicpc.net/problem/1584) <br>[백준 - 이중 우선순위 큐]( https://www.acmicpc.net/problem/7662) |골드5<br>골드4|그래프<br>heap|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
