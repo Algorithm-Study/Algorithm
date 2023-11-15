@@ -16,6 +16,7 @@ for i in range(N):
         else:
             print(heapq.heappop(hq)[1])
             
+
 # 문제 접근 방법
 # # priority queue 구현
 # 새로 배운 python

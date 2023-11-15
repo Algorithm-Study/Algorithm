@@ -35,4 +35,18 @@ for _ in range(n):
 
 #파이썬의 기본 heap은 최소합이기 때문에 최대힙과 최소합의 구현을 할 수 있다는 점을 활용
 #음수 저장 힙과 양수 저장 힙으로 나누어서 저장하는 것을 통해 문제 해결
-        
+
+#======New Code======
+import sys, heapq
+
+queue = []
+n = int(sys.stdin.readline())
+for i in range(n):
+	num = int(sys.stdin.readline())
+	if num:
+		heapq.heappush(queue, (abs(num), num))
+	else:
+		if queue:
+			print(heapq.heappop(queue)[1])
+		else:
+			print(0)       
