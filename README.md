@@ -160,6 +160,7 @@
 |2023.11.10|[백준 - 드래곤 앤 던전](https://www.acmicpc.net/problem/16434) <br>[백준 - 오등큰수]( https://www.acmicpc.net/problem/17299) |골드4<br>골드3|이분탐색<br>스택|
 |2023.11.13|[백준 - 민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) <br>[백준 - 우체국]( https://www.acmicpc.net/problem/2141) |골드4<br>골드4|그래프<br>그리디|
 |2023.11.14|[백준 - 끝나지 않는 파티](https://www.acmicpc.net/problem/11265) <br>[백준 - 절댓값 힙]( https://www.acmicpc.net/problem/11286) |골드5<br>실버1|그래프<br>우선순위 큐|
+|2023.11.15|[백준 - 호석이 두마리 치킨](https://www.acmicpc.net/problem/21278) <br>[백준 - 숨바꼭질 2]( https://www.acmicpc.net/problem/12851) |골드5<br>골드4|그래프<br>그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
