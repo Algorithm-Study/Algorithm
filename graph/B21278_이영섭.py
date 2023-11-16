@@ -15,8 +15,8 @@ for i in range(1, N+1):
 for k in range(1, N+1):
     for i in range(1, N+1):
         for j in range(1, N+1):
-            if city[a][b] > city[a][k] + city[k][b]:
-                city[a][b] = city[a][k] + city[k][b]
+            if city[i][j] > city[i][k] + city[k][j]:
+                city[i][j] = city[i][k] + city[k][j]
 
 bf = combinations([i for i in range(1, N+1)], r=2)
 min_val = float('inf')
