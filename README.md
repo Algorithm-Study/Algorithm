@@ -162,6 +162,7 @@
 |2023.11.14|[백준 - 끝나지 않는 파티](https://www.acmicpc.net/problem/11265) <br>[백준 - 절댓값 힙]( https://www.acmicpc.net/problem/11286) |골드5<br>실버1|그래프<br>우선순위 큐|
 |2023.11.15|[백준 - 호석이 두마리 치킨](https://www.acmicpc.net/problem/21278) <br>[백준 - 숨바꼭질 2]( https://www.acmicpc.net/problem/12851) |골드5<br>골드4|그래프<br>그래프|
 |2023.11.16|[백준 - 1학년](https://www.acmicpc.net/problem/5557) <br>[백준 - 흙길 보수하기]( https://www.acmicpc.net/problem/1911) <br>[백준 - 토마토]( https://www.acmicpc.net/problem/7576) |골드5<br>골드5<br>골드5|dp<br>그리디<br>그래프|
+|2023.11.20|[백준 - 운동](https://www.acmicpc.net/problem/1956) <br>[백준 - 친구비]( https://www.acmicpc.net/problem/16562) |골드4<br>골드4|그래프<br>유니온파인드|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
