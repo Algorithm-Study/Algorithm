@@ -16,6 +16,7 @@ for _ in range(t):
     for i in range(n):
         for edge in edges:
             a, b, cost = edge
+            # 최소 거리 조건이 아니라 사이클 여부만 판단하면 되기 떄문에 distance[a] != INF 조건이 필요 없음
             if distance[b] > distance[a] + cost:
                 distance[b] = distance[a] + cost
                 if i == n-1:
