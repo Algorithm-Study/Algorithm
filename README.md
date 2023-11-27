@@ -166,6 +166,7 @@
 |2023.11.21|[백준 - 플로이드2](https://www.acmicpc.net/problem/11780) <br>[백준 - 도시 분할 계획]( https://www.acmicpc.net/problem/1647) | 골드2<br>골드4|그래프<br>유니온파인드|
 |2023.11.22|[백준 - 수열의 점수](https://www.acmicpc.net/problem/2036) <br>[백준 - 이진 검색 트리]( https://www.acmicpc.net/problem/5639) |골드4<br>골드5|그리디<br>그래프|
 |2023.11.23|[백준 - 타임머신](https://www.acmicpc.net/problem/11657) <br>[백준 - DNA 비밀번호]( https://www.acmicpc.net/problem/12891) |골드4<br>실버2|그래프<br>구현|
+|2023.11.24|[백준 - 웜홀](https://www.acmicpc.net/problem/1865) <br>[백준 - 추월]( https://www.acmicpc.net/problem/2002) |골드3<br>실버1|그래프<br>구현|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
@@ -203,3 +204,6 @@
 |2023.09.28 ~ 2023.09.29|추석 연휴|
 |2023.10.03|법정 공휴일|
 |2023.10.09|법정 공휴일|
+|2023.10.12 ~ 2023.11.02|채용 준비를 위한 휴식|
+|2023.11.06 ~ 2023.11.09|팀원 개인 사정|
+|2023.11.17|팀원 개인 사정|
