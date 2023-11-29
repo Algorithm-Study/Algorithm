@@ -167,7 +167,7 @@
 |2023.11.22|[백준 - 수열의 점수](https://www.acmicpc.net/problem/2036) <br>[백준 - 이진 검색 트리]( https://www.acmicpc.net/problem/5639) |골드4<br>골드5|그리디<br>그래프|
 |2023.11.23|[백준 - 타임머신](https://www.acmicpc.net/problem/11657) <br>[백준 - DNA 비밀번호]( https://www.acmicpc.net/problem/12891) |골드4<br>실버2|그래프<br>구현|
 |2023.11.24|[백준 - 웜홀](https://www.acmicpc.net/problem/1865) <br>[백준 - 추월]( https://www.acmicpc.net/problem/2002) |골드3<br>실버1|그래프<br>구현|
-
+|2023.11.27|[백준 - 도둑](https://www.acmicpc.net/problem/13422) <br>[백준 - 정육점]( https://www.acmicpc.net/problem/2258) |골드4<br>골드 4|누적합<br>그리디|
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
