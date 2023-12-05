@@ -172,6 +172,7 @@
 |2023.11.29|[백준 - 비밀모임](https://www.acmicpc.net/problem/13424) <br>[백준 - 로마 숫자]( https://www.acmicpc.net/problem/2608) |골드4<br>골드5|그래프<br>구현|
 |2023.11.30|[백준 - 간선 이어가기2](https://www.acmicpc.net/problem/14284) <br>[백준 - 주사위 쌓기]( https://www.acmicpc.net/problem/2116) |골드5<br>골드5|그래프<br>구현|
 |2023.12.01|[백준 - 다리 만들기2](https://www.acmicpc.net/problem/17472) <br>[백준 - 방 번호]( https://www.acmicpc.net/problem/1082) <br>[백준 - 트럭]( https://www.acmicpc.net/problem/13335) |골드1<br>골드3<br>실버1|그래프<br>그리디<br>구현|
+|2023.12.04|[백준 - 태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) <br>[백준 - 가운데에서 만나기]( https://www.acmicpc.net/problem/2224) |골드5<br>골드4|누적합<br>그래프|
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
