@@ -177,7 +177,7 @@
 |2023.12.06|[백준 - 텔레포트](https://www.acmicpc.net/problem/16958) <br>[백준 - 좀비 떼가 기관총 진지안에 들어오다니]( https://www.acmicpc.net/problem/19644) |골드4<br>골드 4|그래프<br>그리디|
 |2023.12.07|[백준 - 행성 탐사](https://www.acmicpc.net/problem/5549) <br>[백준 - 전깃줄]( https://www.acmicpc.net/problem/2565) |골드5<br>골드5|누적 합<br>dp|
 |2023.12.08|[백준 - 두 개의 탑](https://www.acmicpc.net/problem/2118) <br>[백준 - 지뢰찾기]( https://www.acmicpc.net/problem/9082) <br>[백준 - 퇴사 2]( https://www.acmicpc.net/problem/15486) |골드5<br>골드 4<br>골드5|누적 합<br>그리디<br>dp|
-
+|2023.12.12|[백준 - Road Reconstruction](https://www.acmicpc.net/problem/20046) <br>[백준 - 색종이]( https://www.acmicpc.net/problem/2590) |골드4<br>골드4|그래프<br>그리디|
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
