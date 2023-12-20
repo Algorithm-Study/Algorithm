@@ -180,6 +180,7 @@
 |2023.12.11|[백준 - 창녕이와 퇴근](https://www.acmicpc.net/problem/22116) <br>[백준 - 포도주 시식]( https://www.acmicpc.net/problem/2156) |골드4<br>실버1|그래프<br>dp|
 |2023.12.12|[백준 - Road Reconstruction](https://www.acmicpc.net/problem/20046) <br>[백준 - 색종이]( https://www.acmicpc.net/problem/2590) |골드4<br>골드4|그래프<br>그리디|
 |2023.12.14|[백준 - 무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694) <br>[백준 - 댄스 파티]( https://www.acmicpc.net/problem/2831) <br>[백준 - 가장 큰 정사각형]( https://www.acmicpc.net/problem/1915) |골드3<br>골드4<br>골드4|그래프<br>그리디<br>dp|
+|2023.12.18|[백준 - 주간 회의](https://www.acmicpc.net/problem/12834) <br>[백준 - 연속합2]( https://www.acmicpc.net/problem/13398) |골드4<br>골드5|그래프<br>dp|
 |2023.12.19|[백준 - 백양로 브레이크](https://www.acmicpc.net/problem/11562) <br>[백준 - 구간 나누기2]( https://www.acmicpc.net/problem/13397) |골드3<br>골드4|그래프<br>이분탐색|
 
 ## 🔎Tips
@@ -222,3 +223,4 @@
 |2023.11.06 ~ 2023.11.09|팀원 개인 사정|
 |2023.11.17|팀원 개인 사정|
 |2023.12.13|팀원 개인 사정|
+|2023.12.15|팀원 개인 사정|
