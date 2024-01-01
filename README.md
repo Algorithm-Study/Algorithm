@@ -188,6 +188,10 @@
 
 </details>
 
+|날짜|문제|난이도|카테고리|
+|:---:|:---:|:---:|:---:|
+|2024.01.01|[백준 - 배열 탈출](https://www.acmicpc.net/problem/11909) <br>[백준 - 떡돌리기]( https://www.acmicpc.net/problem/20007) |골드5<br>골드4|dp<br>그래프 |
+
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
 
