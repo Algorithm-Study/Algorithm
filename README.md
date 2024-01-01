@@ -148,6 +148,9 @@
 
 </details>
 
+<details>
+<summary> <b>2023년 4분기</b> </summary>
+
 |날짜|문제|난이도|카테고리|
 |:---:|:---:|:---:|:---:|
 |2023.10.02|[백준 - 미친 로봇](https://www.acmicpc.net/problem/1405) <br>[백준 - 문제집]( https://www.acmicpc.net/problem/1766) |골드4<br>골드2|완전탐색<br>그래프|
@@ -182,6 +185,8 @@
 |2023.12.14|[백준 - 무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694) <br>[백준 - 댄스 파티]( https://www.acmicpc.net/problem/2831) <br>[백준 - 가장 큰 정사각형]( https://www.acmicpc.net/problem/1915) |골드3<br>골드4<br>골드4|그래프<br>그리디<br>dp|
 |2023.12.18|[백준 - 주간 회의](https://www.acmicpc.net/problem/12834) <br>[백준 - 연속합2]( https://www.acmicpc.net/problem/13398) |골드4<br>골드5|그래프<br>dp|
 |2023.12.19|[백준 - 백양로 브레이크](https://www.acmicpc.net/problem/11562) <br>[백준 - 구간 나누기2]( https://www.acmicpc.net/problem/13397) |골드3<br>골드4|그래프<br>이분탐색|
+
+</details>
 
 ## 🔎Tips
 [python - list 메서드 시간 복잡도](https://github.com/Algorithm-Study/Algorithm/issues/5)
